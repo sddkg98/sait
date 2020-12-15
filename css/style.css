@@ -1,0 +1,31 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+    color: aliceblue;
+}
+
+.box h1{
+    text-align: center;
+    color: blue;
+}
+.box ul li{
+    font-size: 20px;
+    color: red;
+    margin-left: 50px;
+    text-decoration: none;
+    
+}
+.box ul{
+    display: flex;
+    margin-left: 400px;
+}
+.box ul a li{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.pic img{
+    width: 300px;
+
+}
